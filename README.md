@@ -28,6 +28,8 @@ Data from the following tournaments is available (see [Data](data)):
     * CWL Pro League Finals - Jul 19-21, 2019
     * CWL Champs - Aug 14-18, 2019
 
+## Structured data - unzip each file to make it work with other code that I've wrote
+
 
 ## How do we get it? Where does it come from?
 
